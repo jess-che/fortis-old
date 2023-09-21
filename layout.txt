@@ -1,0 +1,25 @@
+FORTIS/
+│
+├── backend/
+│   ├── app.py            # Flask application
+│   ├── venv/             # Python virtual environment
+│   ├── requirements.txt  # List of Python dependencies
+│   └── .env              # Environment variables
+│
+├── frontend/
+│   ├── components/       # Reusable React components
+│   ├── pages/            # Next.js pages
+│   ├── public/           # Public assets (favicon.ico, images)
+│   ├── styles/           # CSS or SCSS stylesheets
+│   └── package.json      # Node.js dependencies and scripts
+│
+├── db/
+│   ├── migrations/       # Database schema migrations (if using)
+│   └── seed/             # Database seed data (if using)
+│
+├── config/
+│   ├── settings.py       # Application configuration settings
+│   └── config.json       # Configuration files (e.g., database)
+│
+├── .gitignore            # List of files/folders to be ignored by Git
+└── README.md             # Project documentation
