@@ -1,0 +1,41 @@
+1.3 
+Basic Features (5)
+Profile
+A new user can register for a new account; an existing user can log in using email and password.
+Each user account has a system-assigned id. Other account information includes profile name, height, weight, gym/equipment (default Wilson and Brodie – can toggle for just one, or create a custom gym?), phone number/socials, age?, gender?. Users can update all information except the id. Ensure that email is unique among all users. Users can also delete their account and all connecting data.
+Users can also adjust settings such as metric/imperial units, dark/light, privacy (how much of their extra profile can be seen….)
+Analytics/Stats
+Some trends/summary of past activities
+Basic Workout Log (like gym stuff - Strong)
+Each user can start a workout and add to a list of exercises in current workout
+Has default workout name like “Monday’s Workout” but can rename to what user wants
+Adding one prompts several drop down menus)
+Sets/Reps
+Weight/Intensity
+Each exercise belongs to a type and has its own attributes (muscle groups for instance)
+Exercises are only displayed if equipment exists in the current location (chose btw Wilson, Brodie, custom gym)
+When logging a workout, contents are persistent (i.e., they should remain after users leave the site and log back in.)
+Can mark the workout as finished and input the rough amount of time they spent
+Can favorite a workout to add to saved templates
+give option to make it a public/private saved template
+Search
+Toggle button between searching through user generated workouts, and available exercises
+Search bar that filters displayed results as you type
+Exercise mode:
+Shows a list of exercises sorted by type (you can sort by clicking on a general type of exercise)
+Push, Pull, Legs, Core
+Workout mode:
+List of user generated workouts with name, muscle groups, avg time, upvotes/rating
+Can click on workout to save as one of their defaults or open it in workout log to edit/do
+Use upvotes/rating to sort by default
+Workout History
+List of past workouts (panel format)
+Provides some brief info (muscle group, date/time) about each workout in reverse chronological order
+User can click on each workout to view more workout in more detail (version of workout log page)
+Can click edit button to make changes
+User can search by date, muscle group used
+Bonus Features (2+)
+Friends (+ Matching)
+Advanced Workout Log (additional stuff)
+Group Workout Plan Template (basically mix workout log and friends)
+Everything else from above I didn’t list
