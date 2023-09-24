@@ -1,7 +1,7 @@
 FORTIS
 
 Team Members: 
-- everyone worked on feature concepts and overarching UI/UX ideas
+- everyone worked on feature concepts and overarching UI/UX ideas and worked on components of the report
 Jessica Chen (jc939)
 -- created figma for general UI/UX concept
 -- worked on how relational databases is interacted by with the users (how users query/modify/constraints...)
