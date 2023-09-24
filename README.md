@@ -1,11 +1,11 @@
 # FORTIS
-**Team Members:**  
+<p>**Team Members:**  </p>
 - Jessica Chen (jc939), Anirudh Jain (aj383), Swarajh Mehta (sm961), Austin Huang (ash110), Benjamin Chauhan (bsc32)
 
-**Project Option:**  
+<p>**Project Option:**  </p>
 - Open Project
 
-**Team Name:**  
+<p>**Team Name:**  </p>
 - Fortis  
 
 ## Design
